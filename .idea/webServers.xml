@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="85528e1a-60f7-4188-80af-47f09862648f" name="serveur" url="">
+        <fileTransfer accessType="SFTP" host="la-projets.univ-lemans.fr" port="2221" sshConfigId="e022670a-f2b0-4a61-ae75-4b6583295214" sshConfig="i191066@la-projets.univ-lemans.fr:2221 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

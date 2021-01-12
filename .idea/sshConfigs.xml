@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="la-projets.univ-lemans.fr" id="e022670a-f2b0-4a61-ae75-4b6583295214" port="2221" nameFormat="DESCRIPTIVE" username="i191066" />
+    </configs>
+  </component>
+</project>
